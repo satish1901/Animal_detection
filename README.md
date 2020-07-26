@@ -5,9 +5,9 @@ Method Tried: Detectron2
 
 This repository includes:
 
-A data visualizer for the BIRDSAI dataset (AnimalsDataVisualizer.py)
+- A data visualizer for the BIRDSAI dataset (AnimalsDataVisualizer.py)
 
-Our system (AnimalsNotebook.ipynb)
+- Our system (AnimalsNotebook.ipynb)
 
 # Requirements:
 For AnimalsDataVisualizer.py:
