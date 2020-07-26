@@ -1,7 +1,11 @@
 # Animal_detection
-This system detects poachers and animals in infrared photographs taken by drones over the African safari.
+This system detects poachers and animals in infrared photographs of the BIRDSAI dataset (https://sites.google.com/view/elizabethbondi/dataset?authuser=0) taken by drones over the African safari.
 
 Method Tried: Detectron2
+
+This repository includes:
+
+A data visualizer for the B
 
 # Requirements:
 For AnimalsDataVisualizer.py:
