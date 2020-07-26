@@ -26,3 +26,8 @@ For AnimalsNotebook.ipynb:
 AnimalsDataVisualizer.py is a data visualizer for the BIRDSAI dataset.
 
 AnimalsDataVisualizer.py reads in the images and annotations of an infrared video in the BIRDSAI dataset and reconstructs the original infrared video with annotations.
+
+# Getting Started
+- If you are using a virtual environment, activate your virtual environment.
+- Go to Animal_Detection
+- 
