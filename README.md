@@ -21,3 +21,8 @@ For AnimalsNotebook.ipynb:
 # Installation
 1. Clone this repository
 2. Update Python
+
+# AnimalsDataVisualizer.py
+AnimalsDataVisualizer.py is a data visualizer for the BIRDSAI dataset.
+
+AnimalsDataVisualizer.py reads in the images and annotations of an infrared video in the BIRDSAI dataset and reconstructs the original infrared video with annotations.
