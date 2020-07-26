@@ -12,8 +12,8 @@ This repository includes:
 # Requirements:
 For AnimalsDataVisualizer.py:
 
-MacOS with Python >= 3.7
+- MacOS with Python ≥ 3.7
 
 For AnimalsNotebook.ipynb:
 
-Access to Google Colab
+- Access to Google Colab
